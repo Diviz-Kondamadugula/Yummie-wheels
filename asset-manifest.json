@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Yummie-wheels/static/css/main.0f931f5b.css",
+    "main.js": "/Yummie-wheels/static/js/main.809b354d.js",
+    "static/media/meals.jpg": "/Yummie-wheels/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Yummie-wheels/index.html",
+    "main.0f931f5b.css.map": "/Yummie-wheels/static/css/main.0f931f5b.css.map",
+    "main.809b354d.js.map": "/Yummie-wheels/static/js/main.809b354d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f931f5b.css",
+    "static/js/main.809b354d.js"
+  ]
+}
